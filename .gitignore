@@ -1,0 +1,4 @@
+# Entorno virtual
+env/
+# Data
+GAN_data/
